@@ -1,0 +1,10 @@
+{
+  "name": "photo-aspect-ratio",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "dependencies": {
+    "express": "4.13.x"
+  }
+}
